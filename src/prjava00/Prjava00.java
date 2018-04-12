@@ -14,6 +14,7 @@ public class Prjava00 {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
         System.out.println("Hola món");
         System.out.println("Versió 0.1 del projecte prjava00");
